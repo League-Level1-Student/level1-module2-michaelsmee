@@ -25,7 +25,7 @@ public class Minion{
 	public String getMaster() {
 		return master;
 	}
-	void setname(String name) {
+	void setname(String name) {  
 		this.name = name;	
 	}	
 	void seteyes(int eyes) {
